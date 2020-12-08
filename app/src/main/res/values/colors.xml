@@ -10,4 +10,6 @@
     <color name="red">#AF0F03</color>
     <color name="light_red">#FF5246</color>
     <color name="gold">#A67428</color>
+    <color name="light_gray">#C4D5D1D1</color>
+    <color name="blue">#6373CD</color>
 </resources>

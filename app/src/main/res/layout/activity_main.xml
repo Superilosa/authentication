@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="@mipmap/start_background">
-
+    
     <androidx.appcompat.widget.AppCompatButton
         android:textSize="25sp"
         android:background="@color/gold"
